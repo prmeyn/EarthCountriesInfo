@@ -1,10 +1,7 @@
 ﻿namespace EarthCountriesInfo
 {
-    public enum CountryIsoCode
-    {
-        PR,
-        DK,
-        IN,
-        FI
-    }
+	public enum CountryIsoCode
+	{
+		DK
+	}
 }
