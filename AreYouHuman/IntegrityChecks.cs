@@ -6,7 +6,7 @@ namespace AreYouHuman
 	public sealed class IntegrityChecks
 	{
 		[TestMethod]
-		public void AllLangaugePropertiesExistInAllLangauges()
+		public void AllCountryPropertiesExistInAllCountries()
 		{
 			// Assert
 			Assert.IsFalse(Enum.GetValues(typeof(CountryIsoCode))
