@@ -38,19 +38,22 @@ public sealed record CountryProperties(
 
 ```csharp
 using EarthCountriesInfo;
+using HumanLanguages;
 
-// Get information for a specific country (e.g., United States)
-var usaProperties = CountryInfo.GetCountryProperties("USA");
-
-Console.WriteLine($"Country Name (English): {usaProperties.CountryNames[LanguageId.English]}");
-Console.WriteLine($"Country Phone Code: +{usaProperties.CountryPhoneCode}");
-
-if (usaProperties.ValidLengthsAndFormat != null)
+// Get information for a specific country (e.g., INDIA)
+if (Countries.CountryPropertiesDictionary.TryGetValue(CountryIsoCode.IN, out CountryProperties infoAboutIndia))
 {
-    foreach (var (length, format) in usaProperties.ValidLengthsAndFormat)
-    {
-        Console.WriteLine($"Valid Length: {length}, Format: {format}");
-    }
+	Console.WriteLine($"Country Name (English): {infoAboutIndia.CountryNames[LanguageId.en]}");
+	Console.WriteLine($"Country Phone Code: +{infoAboutIndia.CountryPhoneCode}");
+
+	if (infoAboutIndia.ValidLengthsAndFormat != null)
+	{
+		foreach (var (length, format) in infoAboutIndia.ValidLengthsAndFormat)
+		{
+			Console.WriteLine($"Valid Length: {length}, Format: {format}");
+		}
+	}
+
 }
 ```
 
