@@ -5,7 +5,10 @@ namespace EarthCountriesInfo.CountryInformation
 	{
 		public static CountryProperties CountryProperties => new(
 			CountryPhoneCode: "45",
-			ValidLengthsAndFormat : null,
+			ValidLengthsAndFormat : new Dictionary<int, string>()
+			{
+				{ 8, "## ## ## ##" }
+			},
 			CountryNames: new Dictionary<LanguageId, string>()
 			{
 				{ LanguageId.aa, "" },
