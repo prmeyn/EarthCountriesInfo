@@ -59,7 +59,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.ebu, "" },
 				{ LanguageId.ee, "" },
 				{ LanguageId.el, "Bharat (Ινδία)" },
-				{ LanguageId.en, "Bharat (India)" },
+				{ LanguageId.en, "India (Bharat)" },
 				{ LanguageId.eo, "Barato (Hindio)" },
 				{ LanguageId.es, "Bharat (India)" },
 				{ LanguageId.et, "Bharat (India)" },
