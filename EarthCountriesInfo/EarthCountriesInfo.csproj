@@ -9,10 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HumanLanguages" Version="7.0.0" />
+    <PackageReference Include="HumanLanguages" Version="10.0.0" />
 
-	<None Include="../LICENSE" Pack="true" PackagePath="\"/>
-	<None Include="../README.md" Pack="true" PackagePath="\"/>
+	<None Include="../LICENSE" Pack="true" PackagePath="\" />
+	<None Include="../README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
 </Project>
