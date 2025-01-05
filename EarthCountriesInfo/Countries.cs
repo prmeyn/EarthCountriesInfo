@@ -399,10 +399,6 @@ namespace EarthCountriesInfo
 					CD.CountryProperties
 			},
 			{
-					CountryIsoCode.ZR,
-					ZR.CountryProperties
-			},
-			{
 					CountryIsoCode.AO,
 					AO.CountryProperties
 			},
@@ -603,10 +599,6 @@ namespace EarthCountriesInfo
 					UA.CountryProperties
 			},
 			{
-					CountryIsoCode.YU,
-					YU.CountryProperties
-			},
-			{
 					CountryIsoCode.HR,
 					HR.CountryProperties
 			},
@@ -709,10 +701,6 @@ namespace EarthCountriesInfo
 			{
 					CountryIsoCode.UY,
 					UY.CountryProperties
-			},
-			{
-					CountryIsoCode.AN,
-					AN.CountryProperties
 			},
 			{
 					CountryIsoCode.TL,

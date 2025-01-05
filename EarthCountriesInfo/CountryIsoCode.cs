@@ -100,7 +100,6 @@
 		GA, // Gabon
 		CG, // Congo
 		CD, // Democratic Republic of the Congo
-		ZR, // Zaire (Discontinued)
 		AO, // Angola
 		GW, // Guinea-Bissau
 		SC, // Seychelles
@@ -151,7 +150,6 @@
 		SM, // San Marino
 		VA, // Vatican City State
 		UA, // Ukraine
-		YU, // Yugoslavia (Discontinued)
 		HR, // Croatia
 		SI, // Slovenia
 		BA, // Bosnia and Herzegovina
@@ -178,7 +176,6 @@
 		MQ, // Martinique
 		SR, // Suriname
 		UY, // Uruguay
-		AN, // Netherlands Antilles
 		TL, // East Timor
 		NF, // Norfolk Island
 		BN, // Brunei Darussalam
