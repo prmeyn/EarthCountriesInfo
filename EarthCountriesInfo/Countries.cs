@@ -897,6 +897,50 @@ namespace EarthCountriesInfo
 			{
 					CountryIsoCode.UZ,
 					UZ.CountryProperties
+			},
+			{
+					CountryIsoCode.RS,
+					RS.CountryProperties
+			},
+			{
+					CountryIsoCode.ME,
+					ME.CountryProperties
+			},
+			{
+					CountryIsoCode.CI,
+					CI.CountryProperties
+			},
+			{
+					CountryIsoCode.SS,
+					SS.CountryProperties
+			},
+			{
+					CountryIsoCode.PS,
+					PS.CountryProperties
+			},
+			{
+					CountryIsoCode.AX,
+					AX.CountryProperties
+			},
+			{
+					CountryIsoCode.BL,
+					BL.CountryProperties
+			},
+			{
+					CountryIsoCode.MF,
+					MF.CountryProperties
+			},
+			{
+					CountryIsoCode.BQ,
+					BQ.CountryProperties
+			},
+			{
+					CountryIsoCode.CW,
+					CW.CountryProperties
+			},
+			{
+					CountryIsoCode.SX,
+					SX.CountryProperties
 			}
 		};
 	}

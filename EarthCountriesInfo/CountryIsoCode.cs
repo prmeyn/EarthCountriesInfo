@@ -224,6 +224,17 @@
 		AZ, // Azerbaijan
 		GE, // Georgia
 		KG, // Kyrgyzstan
-		UZ // Uzbekistan
+		UZ, // Uzbekistan
+		RS, // Serbia
+		ME, // Montenegro
+		CI, // Cote d'Ivoire
+		SS, // South Sudan
+		PS, // Palestine
+		AX, // Aland Islands
+		BL, // Saint Barthelemy
+		MF, // Saint Martin
+		BQ, // Bonaire, Sint Eustatius and Saba
+		CW, // Curacao
+		SX // Sint Maarten
 	}
 }
