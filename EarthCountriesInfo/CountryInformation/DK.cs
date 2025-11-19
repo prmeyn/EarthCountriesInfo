@@ -33,7 +33,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ডেনমার্ক" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Danmark" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Danska" },
 				{ LanguageId.byn, "" },

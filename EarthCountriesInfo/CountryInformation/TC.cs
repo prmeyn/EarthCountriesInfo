@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "টার্কস্ ও কেইকোস দ্বীপপুঞ্জ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Inizi Turks ha Caicos" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ostrva Turks i Kaikos" },
 				{ LanguageId.byn, "" },

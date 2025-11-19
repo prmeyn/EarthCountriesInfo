@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কিরিবাতি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Kiribati" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Kiribati" },
 				{ LanguageId.byn, "" },

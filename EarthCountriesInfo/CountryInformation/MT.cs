@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মাল্টা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Malta" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Malta" },
 				{ LanguageId.byn, "" },

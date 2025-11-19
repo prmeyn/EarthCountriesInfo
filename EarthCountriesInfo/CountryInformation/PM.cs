@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সেন্ট পিয়ের এবং মিকেলন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Sant-Pêr-ha-Mikelon" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "St. Pierre i Miquelon" },
 				{ LanguageId.byn, "" },

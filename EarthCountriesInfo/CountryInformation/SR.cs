@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সুরিনাম" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Surinam" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Surinam" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "টুভালু" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Tuvalu" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Tuvalu" },
 				{ LanguageId.byn, "" },

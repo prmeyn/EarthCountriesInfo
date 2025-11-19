@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "অস্ট্রিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Aostria" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Austrija" },
 				{ LanguageId.byn, "" },

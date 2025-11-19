@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ইন্দোনেশিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Indonezia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Indonezija" },
 				{ LanguageId.byn, "" },

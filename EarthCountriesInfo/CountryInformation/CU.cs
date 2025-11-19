@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কিউবা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Kuba" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Kuba" },
 				{ LanguageId.byn, "" },

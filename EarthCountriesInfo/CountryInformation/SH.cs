@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সেন্ট হেলেনা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Saint Helena, Ascension ha Tristan da Cunha" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Sveta Helena" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ফিজি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Fidji" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Fiji" },
 				{ LanguageId.byn, "" },

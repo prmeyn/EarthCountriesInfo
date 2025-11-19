@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "নিকারাগুয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Nicaragua" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Nikaragva" },
 				{ LanguageId.byn, "" },

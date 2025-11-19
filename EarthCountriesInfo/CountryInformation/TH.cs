@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "থাইল্যান্ড" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Thailand" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Tajland" },
 				{ LanguageId.byn, "" },

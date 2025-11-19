@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ফরাসি পলিনেশিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Polinezia C'hall" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Francuska Polinezija" },
 				{ LanguageId.byn, "" },

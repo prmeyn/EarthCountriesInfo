@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "রাশিয়ান ফেডারেশন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Rusia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ruska Federacija" },
 				{ LanguageId.byn, "" },

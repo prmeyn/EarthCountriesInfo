@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "এন্ডোরা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Andorra" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Andora" },
 				{ LanguageId.byn, "" },

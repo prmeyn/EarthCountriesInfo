@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "গুয়াম" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Guam" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Guam" },
 				{ LanguageId.byn, "" },

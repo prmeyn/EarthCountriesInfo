@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "হন্ডুরাস" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Honduras" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Honduras" },
 				{ LanguageId.byn, "" },

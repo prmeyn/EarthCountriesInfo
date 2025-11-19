@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "এল সালভাদর" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "El Salvador" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "El Salvador" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "তুর্কমেনিস্তান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Turkmenistan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Turkmenistan" },
 				{ LanguageId.byn, "" },

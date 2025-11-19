@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কমোরোস" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Komorez" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Komori" },
 				{ LanguageId.byn, "" },

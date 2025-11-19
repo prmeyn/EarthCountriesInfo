@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ওয়ালিস এবং ফুটুনা দ্বীপপুঞ্জ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Wallis ha Futuna" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ostrva Wallis i Futuna" },
 				{ LanguageId.byn, "" },

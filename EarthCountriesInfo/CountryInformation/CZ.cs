@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "চেক প্রজাতন্ত্র" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Tchekia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Češka Republika" },
 				{ LanguageId.byn, "" },

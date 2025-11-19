@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "অ্যাঙ্গোলা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Angola" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Angola" },
 				{ LanguageId.byn, "" },

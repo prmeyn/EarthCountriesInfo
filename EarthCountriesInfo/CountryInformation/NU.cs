@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "নিউ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Niue" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Niue" },
 				{ LanguageId.byn, "" },

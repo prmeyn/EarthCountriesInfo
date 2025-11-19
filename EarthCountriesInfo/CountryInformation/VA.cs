@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ভ্যাটিকান সিটি স্টেট" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Vatikan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Država Vatikan" },
 				{ LanguageId.byn, "" },

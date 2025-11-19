@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কাতার" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Katar" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Katar" },
 				{ LanguageId.byn, "" },

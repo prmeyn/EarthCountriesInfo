@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "নিউজিল্যান্ড" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Zeland-Nevez" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Novi Zeland" },
 				{ LanguageId.byn, "" },

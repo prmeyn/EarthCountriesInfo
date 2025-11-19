@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কোস্টারিকা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Costa Rica" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "kosta rika" },
 				{ LanguageId.byn, "" },

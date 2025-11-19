@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সেন্ট ভিনসেন্ট ও গ্রেনাডাইন দ্বীপপুঞ্জ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Sant-Visant hag ar Grenadinez" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Sveti Vincent i Grenadini" },
 				{ LanguageId.byn, "" },

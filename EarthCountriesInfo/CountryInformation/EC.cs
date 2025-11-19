@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ইকুয়েডর" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Ecuador" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ekvador" },
 				{ LanguageId.byn, "" },

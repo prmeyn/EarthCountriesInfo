@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "লাইবেরিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Liberia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Liberija" },
 				{ LanguageId.byn, "" },

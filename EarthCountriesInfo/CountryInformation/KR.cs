@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "দক্ষিণ কোরিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Korea ar Su" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "republika Koreja" },
 				{ LanguageId.byn, "" },

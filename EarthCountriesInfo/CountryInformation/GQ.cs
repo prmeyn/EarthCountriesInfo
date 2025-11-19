@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "নিরক্ষীয় গিনি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Ginea ar C'heheder" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ekvatorijalna Gvineja" },
 				{ LanguageId.byn, "" },

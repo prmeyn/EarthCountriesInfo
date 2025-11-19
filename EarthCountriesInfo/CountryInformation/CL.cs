@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "চিলি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Chile" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Čile" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "জাপান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Japan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Japan" },
 				{ LanguageId.byn, "" },

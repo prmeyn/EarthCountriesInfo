@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "লাও পিপলস ডেমোক্রেটিক রিপাবলিক" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Laos" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Laoska Narodna Demokratska Republika" },
 				{ LanguageId.byn, "" },

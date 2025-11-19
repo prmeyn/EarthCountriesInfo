@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সাও টোমে এবং প্রিনসিপে" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "São Tomé ha Príncipe" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Sao Tome i Principe" },
 				{ LanguageId.byn, "" },

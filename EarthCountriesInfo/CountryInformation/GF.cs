@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "একটি দেশের নাম" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Gwiana C'hall" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Francuska Gvajana" },
 				{ LanguageId.byn, "" },

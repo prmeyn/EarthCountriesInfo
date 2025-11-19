@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ভার্জিন দ্বীপপুঞ্জ (মার্কিন যুক্তরাষ্ট্র)" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Inizi Gwerc'h ar Stadoù-Unanet" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Djevičanska ostrva (SAD)" },
 				{ LanguageId.byn, "" },

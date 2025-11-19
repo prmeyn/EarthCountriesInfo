@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "উরুগুয়ে" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Uruguay" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Urugvaj" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "পশ্চিম সাহারা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Sahara ar C'hornôg" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Zapadna Sahara" },
 				{ LanguageId.byn, "" },

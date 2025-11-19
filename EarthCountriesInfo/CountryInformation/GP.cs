@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "গুয়াদেলুপ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Gwadeloup" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Guadeloupe" },
 				{ LanguageId.byn, "" },

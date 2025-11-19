@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ফিনল্যান্ড" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Finland" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Finland" },
 				{ LanguageId.byn, "" },

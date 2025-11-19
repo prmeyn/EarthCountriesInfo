@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "গুয়াতেমালা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Guatemala" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Gvatemala" },
 				{ LanguageId.byn, "" },

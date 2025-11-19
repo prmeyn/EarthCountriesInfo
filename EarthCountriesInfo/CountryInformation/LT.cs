@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "লিথুয়ানিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Lituania" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Litvanija" },
 				{ LanguageId.byn, "" },

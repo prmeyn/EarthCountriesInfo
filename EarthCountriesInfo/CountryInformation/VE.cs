@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ভেনেজুয়েলা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Venezuela" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Venecuela" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "আর্মেনিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Armenia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Jermenija" },
 				{ LanguageId.byn, "" },

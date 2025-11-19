@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "উজবেকিস্তান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Ouzbekistan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Uzbekistan" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সেনেগাল" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Senegal" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Senegal" },
 				{ LanguageId.byn, "" },

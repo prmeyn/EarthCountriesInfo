@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কলম্বিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Kolombia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Kolumbija" },
 				{ LanguageId.byn, "" },

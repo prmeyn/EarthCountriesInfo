@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "বাহামাস" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Bahamas" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Bahami" },
 				{ LanguageId.byn, "" },

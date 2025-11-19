@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "নতুন ক্যালেডোনিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Kaledonia-Nevez" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Nova Kaledonija" },
 				{ LanguageId.byn, "" },

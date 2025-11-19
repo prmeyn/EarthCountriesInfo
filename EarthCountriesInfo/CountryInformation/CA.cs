@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কানাডা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Kanada" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Kanada" },
 				{ LanguageId.byn, "" },

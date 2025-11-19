@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "স্পেন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Spagn" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Španija" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "পালাউ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Palau" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Palau" },
 				{ LanguageId.byn, "" },

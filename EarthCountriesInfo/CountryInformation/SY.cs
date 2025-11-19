@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সিরিয় আরব প্রজাতন্ত্র" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Siria" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Sirijska Arapska Republika" },
 				{ LanguageId.byn, "" },

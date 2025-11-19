@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মালয়েশিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Malaysia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Malezija" },
 				{ LanguageId.byn, "" },

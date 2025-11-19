@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ভানুয়াতু" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Vanuatu" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Vanuatu" },
 				{ LanguageId.byn, "" },

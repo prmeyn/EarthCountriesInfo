@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "আয়ারল্যান্ড" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Iwerzhon" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Irska" },
 				{ LanguageId.byn, "" },

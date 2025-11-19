@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ইতালি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Italia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Italija" },
 				{ LanguageId.byn, "" },

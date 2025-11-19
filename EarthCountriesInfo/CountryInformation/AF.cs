@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "আফগানিস্তান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Afghanistan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Afganistan" },
 				{ LanguageId.byn, "" },

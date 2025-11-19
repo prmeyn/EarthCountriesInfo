@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কেম্যান দ্বীপপুঞ্জ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Inizi Cayman" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Kajmanska ostrva" },
 				{ LanguageId.byn, "" },

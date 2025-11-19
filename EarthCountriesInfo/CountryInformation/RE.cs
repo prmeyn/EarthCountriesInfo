@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "পুনর্মিলন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Reünion" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Reunion" },
 				{ LanguageId.byn, "" },

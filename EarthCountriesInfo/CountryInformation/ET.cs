@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ইথিওপিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Etiopia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Etiopija" },
 				{ LanguageId.byn, "" },

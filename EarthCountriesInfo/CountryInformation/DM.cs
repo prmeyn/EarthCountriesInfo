@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ডমিনিকা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Dominika" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Dominika" },
 				{ LanguageId.byn, "" },

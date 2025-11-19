@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "লিচেনস্টাইন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Liechtenstein" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Lihtenštajn" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মালি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Mali" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Mali" },
 				{ LanguageId.byn, "" },

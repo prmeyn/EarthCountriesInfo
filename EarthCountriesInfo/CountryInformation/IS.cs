@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "আইসল্যান্ড" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Island" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Island" },
 				{ LanguageId.byn, "" },

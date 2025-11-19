@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ভার্জিন দ্বীপপুঞ্জ (ব্রিটিশ)" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Inizi Gwerc'h Breizhveurat" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Djevičanska ostrva (britanska)" },
 				{ LanguageId.byn, "" },

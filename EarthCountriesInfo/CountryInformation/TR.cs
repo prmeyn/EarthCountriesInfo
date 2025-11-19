@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "তুরস্ক" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Turkia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Turska" },
 				{ LanguageId.byn, "" },

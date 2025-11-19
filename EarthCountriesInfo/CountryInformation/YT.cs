@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মায়োট" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Mayotte" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Mayotte" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সিয়েরা লিওন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Sierra Leone" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Sierra Leone" },
 				{ LanguageId.byn, "" },

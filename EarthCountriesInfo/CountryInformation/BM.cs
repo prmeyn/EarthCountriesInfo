@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "বারমুডা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Bermuda" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Bermuda" },
 				{ LanguageId.byn, "" },

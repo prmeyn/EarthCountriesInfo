@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মাদাগাস্কার" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Madagaskar" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Madagaskar" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ক্যামেরুন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Kameroun" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Kamerun" },
 				{ LanguageId.byn, "" },

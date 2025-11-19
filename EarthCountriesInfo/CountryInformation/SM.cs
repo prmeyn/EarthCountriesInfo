@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সান মারিনো" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "San Marino" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "San Marino" },
 				{ LanguageId.byn, "" },

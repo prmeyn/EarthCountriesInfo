@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "বার্বাডোজ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Barbados" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Barbados" },
 				{ LanguageId.byn, "" },

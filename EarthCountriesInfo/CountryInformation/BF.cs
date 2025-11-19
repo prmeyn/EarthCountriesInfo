@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "বুর্কিনা ফাসো" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Burkina Faso" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Burkina Faso" },
 				{ LanguageId.byn, "" },

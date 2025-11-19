@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সেন্ট লুসিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Santez-Lusia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Sveta Lucija" },
 				{ LanguageId.byn, "" },

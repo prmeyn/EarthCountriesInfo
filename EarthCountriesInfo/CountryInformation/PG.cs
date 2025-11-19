@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "পাপুয়া নিউ গিনি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Papoua-Ginea Nevez" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Papua Nova Gvineja" },
 				{ LanguageId.byn, "" },

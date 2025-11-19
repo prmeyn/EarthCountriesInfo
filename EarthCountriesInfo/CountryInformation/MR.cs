@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মৌরিতানিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Maouritania" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Mauritanija" },
 				{ LanguageId.byn, "" },

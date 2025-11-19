@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মোনাকো" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Monako" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Monako" },
 				{ LanguageId.byn, "" },

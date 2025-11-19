@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "লুক্সেমবার্গ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Luksembourg" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Luksemburg" },
 				{ LanguageId.byn, "" },

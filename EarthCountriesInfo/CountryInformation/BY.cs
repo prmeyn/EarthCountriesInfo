@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "বেলারুশ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Belarus" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Bjelorusija" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "গ্রেনাডা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Grenada" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Grenada" },
 				{ LanguageId.byn, "" },

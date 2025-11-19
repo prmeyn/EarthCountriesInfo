@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ব্রুনাই দারুসসালাম" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Brunei" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Brunej Darussalam" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ফকল্যান্ড দ্বীপপুঞ্জ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Inizi Maloù" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Falklandska ostrva" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সৌদি আরব" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Arabia Saoudat" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Saudijska Arabija" },
 				{ LanguageId.byn, "" },

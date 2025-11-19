@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ক্রোয়েশিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Kroatia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Hrvatska" },
 				{ LanguageId.byn, "" },

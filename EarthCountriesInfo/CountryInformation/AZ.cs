@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "আজারবাইজান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Azerbaidjan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Azerbejdžan" },
 				{ LanguageId.byn, "" },

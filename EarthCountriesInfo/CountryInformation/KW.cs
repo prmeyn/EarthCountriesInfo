@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কুয়েত" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Koweit" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Kuvajt" },
 				{ LanguageId.byn, "" },

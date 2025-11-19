@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "গিনি-বিসাউ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Ginea-Bissau" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Gvineja Bisau" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সংযুক্ত আরব আমিরাত" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Emirelezhioù Arab Unanet" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ujedinjeni Arapski Emirati" },
 				{ LanguageId.byn, "" },

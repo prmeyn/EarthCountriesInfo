@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ফিলিপাইন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Filipinez" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Filipini" },
 				{ LanguageId.byn, "" },

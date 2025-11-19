@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ইউক্রেন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Ukraina" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ukrajina" },
 				{ LanguageId.byn, "" },

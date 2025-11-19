@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সুদান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Soudan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Sudan" },
 				{ LanguageId.byn, "" },

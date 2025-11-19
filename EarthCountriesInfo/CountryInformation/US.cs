@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "যুক্তরাষ্ট্র" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Stadoù-Unanet" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Sjedinjene Države" },
 				{ LanguageId.byn, "" },

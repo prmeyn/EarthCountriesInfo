@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সিঙ্গাপুর" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Singapour" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Singapur" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "নাইজার" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Niger" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Niger" },
 				{ LanguageId.byn, "" },

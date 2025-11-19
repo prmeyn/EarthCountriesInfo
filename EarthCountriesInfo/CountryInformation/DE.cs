@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "জার্মানি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Alamagn" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Njemačka" },
 				{ LanguageId.byn, "" },

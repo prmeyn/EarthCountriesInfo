@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "তিউনিসিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Tunizia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Tunis" },
 				{ LanguageId.byn, "" },

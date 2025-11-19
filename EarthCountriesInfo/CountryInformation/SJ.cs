@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "স্বালবার্ড এবং জান মায়েন দ্বীপপুঞ্জ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Svalbard ha Jan Mayen" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ostrva Svalbard i Jan Majen" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মেসিডোনিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Makedonia an Norzh" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Makedonija" },
 				{ LanguageId.byn, "" },

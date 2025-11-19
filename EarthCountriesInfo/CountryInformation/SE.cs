@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সুইডেন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Sveden" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Švedska" },
 				{ LanguageId.byn, "" },

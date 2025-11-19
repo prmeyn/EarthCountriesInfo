@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মেক্সিকো" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Mec'hiko" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Meksiko" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সেশেলস" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Sechelez" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Sejšeli" },
 				{ LanguageId.byn, "" },

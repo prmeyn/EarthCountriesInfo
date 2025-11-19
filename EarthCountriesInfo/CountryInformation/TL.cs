@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "পূর্ব তিমুর" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Timor ar Reter" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Istočni Timor" },
 				{ LanguageId.byn, "" },

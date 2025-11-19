@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "পাকিস্তান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Pakistan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Pakistan" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "বাংলাদেশ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Bangladesh" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Bangladeš" },
 				{ LanguageId.byn, "" },

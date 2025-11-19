@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সামোয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Samoa" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Samoa" },
 				{ LanguageId.byn, "" },

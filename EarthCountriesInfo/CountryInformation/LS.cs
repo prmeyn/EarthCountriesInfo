@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "লেসোথো" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Lesotho" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Lesoto" },
 				{ LanguageId.byn, "" },

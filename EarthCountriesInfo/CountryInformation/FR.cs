@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ফ্রান্স" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Frañs" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Francuska" },
 				{ LanguageId.byn, "" },

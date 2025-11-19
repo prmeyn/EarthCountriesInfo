@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "জিব্রাল্টার" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Jibraltar" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Gibraltar" },
 				{ LanguageId.byn, "" },

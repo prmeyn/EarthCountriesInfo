@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "নেপাল" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Nepal" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Nepal" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "জর্ডান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Jordania" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Jordan" },
 				{ LanguageId.byn, "" },

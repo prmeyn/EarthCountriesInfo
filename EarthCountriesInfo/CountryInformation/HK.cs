@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "হংকং" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Hong Kong" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "hong kong" },
 				{ LanguageId.byn, "" },

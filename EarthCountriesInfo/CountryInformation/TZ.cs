@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "তানজানিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Tanzania" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Tanzanija" },
 				{ LanguageId.byn, "" },

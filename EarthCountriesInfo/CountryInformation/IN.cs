@@ -33,7 +33,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ভারত (ভারত)" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "India" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "bharat (Indija)" },
 				{ LanguageId.byn, "" },

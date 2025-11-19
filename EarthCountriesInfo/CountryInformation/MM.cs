@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মায়ানমার" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Myanmar" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Myanmar" },
 				{ LanguageId.byn, "" },

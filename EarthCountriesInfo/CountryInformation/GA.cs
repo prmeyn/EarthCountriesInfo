@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "গ্যাবন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Gabon" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Gabon" },
 				{ LanguageId.byn, "" },

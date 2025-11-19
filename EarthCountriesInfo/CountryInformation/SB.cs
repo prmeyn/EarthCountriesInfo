@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সলোমান দ্বীপপুঞ্জ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Inizi Salomon" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Solomonova ostrva" },
 				{ LanguageId.byn, "" },

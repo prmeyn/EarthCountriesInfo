@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ডোমিনিকান প্রজাতন্ত্র" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Republik Dominikan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Dominikanska republika" },
 				{ LanguageId.byn, "" },

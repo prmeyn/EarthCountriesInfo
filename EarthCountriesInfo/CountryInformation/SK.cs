@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "স্লোভাকিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Slovakia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Slovačka" },
 				{ LanguageId.byn, "" },

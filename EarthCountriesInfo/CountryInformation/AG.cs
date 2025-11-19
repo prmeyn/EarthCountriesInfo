@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "অ্যান্টিগুয়া ও বার্বুডা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Antigua ha Barbuda" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Antigva i Barbuda" },
 				{ LanguageId.byn, "" },

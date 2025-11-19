@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "নরফোক দ্বীপ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Enez Norfolk" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ostrvo Norfolk" },
 				{ LanguageId.byn, "" },

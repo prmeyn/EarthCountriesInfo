@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "চাদ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Tchad" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Čad" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "পুয়ের্তো রিকো" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Puerto Rico" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Puerto Rico" },
 				{ LanguageId.byn, "" },

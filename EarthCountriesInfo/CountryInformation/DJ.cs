@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "জিবুতি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Djibouti" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Džibuti" },
 				{ LanguageId.byn, "" },

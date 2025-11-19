@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "লিবিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Libia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Libija" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ভিয়েতনাম" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Viêt Nam" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Vijetnam" },
 				{ LanguageId.byn, "" },

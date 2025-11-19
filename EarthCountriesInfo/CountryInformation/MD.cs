@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মলদোভা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Moldova" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Moldavija" },
 				{ LanguageId.byn, "" },

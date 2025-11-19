@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মার্টিনিক" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Martinik" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Martinik" },
 				{ LanguageId.byn, "" },

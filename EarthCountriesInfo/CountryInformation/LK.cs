@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "শ্রীলংকা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Sri Lanka" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Šri Lanka" },
 				{ LanguageId.byn, "" },

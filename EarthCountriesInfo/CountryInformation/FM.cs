@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মাইক্রোনেশিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Mikronezia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Mikronezija" },
 				{ LanguageId.byn, "" },

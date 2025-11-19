@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "চীন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Sina" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "kina" },
 				{ LanguageId.byn, "" },

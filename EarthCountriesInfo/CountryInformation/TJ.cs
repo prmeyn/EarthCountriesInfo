@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "তাজিকিস্তান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Tadjikistan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Tadžikistan" },
 				{ LanguageId.byn, "" },

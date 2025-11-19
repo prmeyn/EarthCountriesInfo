@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মিশর" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Egipt" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Egipat" },
 				{ LanguageId.byn, "" },

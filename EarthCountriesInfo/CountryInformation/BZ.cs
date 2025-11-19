@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "বেলিজ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Belize" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Belize" },
 				{ LanguageId.byn, "" },

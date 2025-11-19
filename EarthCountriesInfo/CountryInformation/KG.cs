@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কিরগিজস্তান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Kirgizstan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Kirgistan" },
 				{ LanguageId.byn, "" },

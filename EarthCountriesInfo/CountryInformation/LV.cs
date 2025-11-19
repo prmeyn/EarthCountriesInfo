@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "লাটভিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Latvia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Latvija" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "গায়ানা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Guyana" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Gvajana" },
 				{ LanguageId.byn, "" },

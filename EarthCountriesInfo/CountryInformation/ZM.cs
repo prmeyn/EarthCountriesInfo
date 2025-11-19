@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "জাম্বিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Zambia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Zambija" },
 				{ LanguageId.byn, "" },

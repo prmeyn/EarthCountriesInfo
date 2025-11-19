@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "তাইওয়ান" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Taiwan" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Tajvan" },
 				{ LanguageId.byn, "" },

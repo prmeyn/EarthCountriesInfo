@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "রুয়ান্ডা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Rwanda" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ruanda" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "পানামা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Panama" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Panama" },
 				{ LanguageId.byn, "" },

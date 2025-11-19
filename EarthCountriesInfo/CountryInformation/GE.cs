@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "জর্জিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Jorjia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Georgia" },
 				{ LanguageId.byn, "" },

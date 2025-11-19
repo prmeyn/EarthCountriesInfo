@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সোমালিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Somalia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Somalija" },
 				{ LanguageId.byn, "" },

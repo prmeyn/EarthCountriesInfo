@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "নাউরু" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Nauru" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Nauru" },
 				{ LanguageId.byn, "" },

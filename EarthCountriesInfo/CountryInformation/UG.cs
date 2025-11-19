@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "উগান্ডা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Ouganda" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Uganda" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মরক্কো" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Maroko" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Maroko" },
 				{ LanguageId.byn, "" },

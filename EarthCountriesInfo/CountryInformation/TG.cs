@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "যাও" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Togo" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Ići" },
 				{ LanguageId.byn, "" },

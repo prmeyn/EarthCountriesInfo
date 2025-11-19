@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মন্টসেরাট" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Montserrat" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Montserrat" },
 				{ LanguageId.byn, "" },

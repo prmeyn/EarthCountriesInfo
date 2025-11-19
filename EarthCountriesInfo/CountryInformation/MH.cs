@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মার্শাল দ্বীপপুঞ্জ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Inizi Marshall" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Marshall Islands" },
 				{ LanguageId.byn, "" },

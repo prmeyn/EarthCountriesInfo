@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "জ্যামাইকা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Jamaika" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Jamajka" },
 				{ LanguageId.byn, "" },

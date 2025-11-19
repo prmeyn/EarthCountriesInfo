@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "বসনিয়া ও হার্জেগোভিনা" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Bosnia-ha-Herzegovina" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Bosna i Hercegovina" },
 				{ LanguageId.byn, "" },

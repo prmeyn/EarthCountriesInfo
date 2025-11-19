@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "হাঙ্গেরি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Hungaria" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "mađarska" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "পিটকেয়ার্ন" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Inizi Pitcairn" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Pitcairn" },
 				{ LanguageId.byn, "" },

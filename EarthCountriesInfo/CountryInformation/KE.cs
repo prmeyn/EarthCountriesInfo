@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কেনিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Kenya" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Kenija" },
 				{ LanguageId.byn, "" },

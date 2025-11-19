@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "গ্রীস" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Gres" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Grčka" },
 				{ LanguageId.byn, "" },

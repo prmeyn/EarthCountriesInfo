@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "আলজেরিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Aljeria" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Alžir" },
 				{ LanguageId.byn, "" },

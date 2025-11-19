@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ম্যাকাও" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Makao" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Macao" },
 				{ LanguageId.byn, "" },

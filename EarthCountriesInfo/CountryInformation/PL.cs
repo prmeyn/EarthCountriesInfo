@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "পোল্যান্ড" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Polonia" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Poljska" },
 				{ LanguageId.byn, "" },

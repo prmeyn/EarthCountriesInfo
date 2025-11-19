@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "সেন্ট কিটস ও নেভিস" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Saint Kitts ha Nevis" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Saint Kitts i Nevis" },
 				{ LanguageId.byn, "" },

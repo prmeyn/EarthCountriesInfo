@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "হাইতি" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Haiti" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Haiti" },
 				{ LanguageId.byn, "" },

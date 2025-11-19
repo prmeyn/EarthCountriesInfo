@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "টোকেলাউ" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Tokelau" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Tokelau" },
 				{ LanguageId.byn, "" },

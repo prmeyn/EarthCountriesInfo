@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "ত্রিনিদাদ ও টোবাগো" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Trinidad ha Tobago" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Trinidad i Tobago" },
 				{ LanguageId.byn, "" },

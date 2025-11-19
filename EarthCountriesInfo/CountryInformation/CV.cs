@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "কেপ ভার্দে" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Kab Glas" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Cape Verde" },
 				{ LanguageId.byn, "" },

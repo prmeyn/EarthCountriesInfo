@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "মোজাম্বিক" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Mozambik" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Mozambik" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "যুক্তরাজ্য" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Rouantelezh-Unanet" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "ujedinjeno kraljevstvo" },
 				{ LanguageId.byn, "" },

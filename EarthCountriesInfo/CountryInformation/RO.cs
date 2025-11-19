@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "রোমানিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Roumania" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Rumunija" },
 				{ LanguageId.byn, "" },

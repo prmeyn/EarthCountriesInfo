@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "নেদারল্যান্ডস" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Izelvroioù" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Holandija" },
 				{ LanguageId.byn, "" },

@@ -30,7 +30,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.bm, "" },
 				{ LanguageId.bn, "গণতান্ত্রিক গণপ্রজাতন্ত্রী কোরিয়া" },
 				{ LanguageId.bo, "" },
-				{ LanguageId.br, "" },
+				{ LanguageId.br, "Korea an Norzh" },
 				{ LanguageId.brx, "" },
 				{ LanguageId.bs, "Demokratska Narodna Republika Koreja" },
 				{ LanguageId.byn, "" },
