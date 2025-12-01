@@ -66,7 +66,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.ff, "" },
 				{ LanguageId.fi, "Norja" },
 				{ LanguageId.fil, "Norway" },
-				{ LanguageId.fo, "" },
+				{ LanguageId.fo, "Noreg" },
 				{ LanguageId.fr, "Norvège" },
 				{ LanguageId.fur, "" },
 				{ LanguageId.fy, "Noarwegen" },
