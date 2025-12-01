@@ -157,7 +157,7 @@ namespace EarthCountriesInfo.CountryInformation
 				{ LanguageId.ne, "फारो टापुहरू" },
 				{ LanguageId.nl, "Faeröer eilanden" },
 				{ LanguageId.nmg, "" },
-				{ LanguageId.nn, "" },
+				{ LanguageId.nn, "Færøyane" },
 				{ LanguageId.nnh, "" },
 				{ LanguageId.nqo, "" },
 				{ LanguageId.nr, "" },
