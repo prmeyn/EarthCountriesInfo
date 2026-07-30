@@ -1,10 +1,15 @@
-﻿using EarthCountriesInfo.CountryInformation;
+﻿using System.Collections.Frozen;
+using EarthCountriesInfo.CountryInformation;
 
 namespace EarthCountriesInfo
 {
 	public static class Countries
 	{
-		public static Dictionary<CountryIsoCode, CountryProperties> CountryPropertiesDictionary = new()
+		/// <summary>
+		/// Every supported country, keyed by ISO 3166-1 alpha-2 code. Built once and read-only;
+		/// backed by a frozen dictionary for fast repeated lookups.
+		/// </summary>
+		public static IReadOnlyDictionary<CountryIsoCode, CountryProperties> CountryPropertiesDictionary { get; } = new Dictionary<CountryIsoCode, CountryProperties>
 		{
 			{
 					CountryIsoCode.CA,
@@ -942,6 +947,6 @@ namespace EarthCountriesInfo
 					CountryIsoCode.SX,
 					SX.CountryProperties
 			}
-		};
+		}.ToFrozenDictionary();
 	}
 }

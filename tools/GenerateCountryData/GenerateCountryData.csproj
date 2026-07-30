@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <!-- Developer tool: never shipped, never packed. -->
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--
+      The generator reads the CURRENT dataset through Countries.CountryPropertiesDictionary,
+      which gives it the hand-maintained phone data and the fallback names for languages CLDR
+      does not cover, without having to parse C# source with regexes.
+    -->
+    <ProjectReference Include="..\..\EarthCountriesInfo\EarthCountriesInfo.csproj" />
+  </ItemGroup>
+
+</Project>

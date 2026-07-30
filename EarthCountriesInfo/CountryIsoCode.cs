@@ -7,25 +7,25 @@
 		BS, // Bahamas
 		BB, // Barbados
 		AI, // Anguilla
-		AG, // Antigua and Barbuda
-		VG, // Virgin Islands (British)
-		VI, // Virgin Islands (U.S.)
+		AG, // Antigua & Barbuda
+		VG, // British Virgin Islands
+		VI, // U.S. Virgin Islands
 		KY, // Cayman Islands
 		BM, // Bermuda
 		GD, // Grenada
-		TC, // Turks and Caicos Islands
+		TC, // Turks & Caicos Islands
 		MS, // Montserrat
 		GU, // Guam
-		LC, // Saint Lucia
+		LC, // St. Lucia
 		DM, // Dominica
-		VC, // Saint Vincent and the Grenadines
+		VC, // St. Vincent & Grenadines
 		PR, // Puerto Rico
 		DO, // Dominican Republic
-		TT, // Trinidad and Tobago
-		KN, // Saint Kitts and Nevis
+		TT, // Trinidad & Tobago
+		KN, // St. Kitts & Nevis
 		JM, // Jamaica
 		KZ, // Kazakhstan
-		RU, // Russian Federation
+		RU, // Russia
 		EG, // Egypt
 		ZA, // South Africa
 		GR, // Greece
@@ -42,7 +42,7 @@
 		DK, // Denmark
 		SE, // Sweden
 		NO, // Norway
-		SJ, // Svalbard and Jan Mayen Islands
+		SJ, // Svalbard & Jan Mayen
 		PL, // Poland
 		DE, // Germany
 		PE, // Peru
@@ -58,19 +58,19 @@
 		ID, // Indonesia
 		PH, // Philippines
 		NZ, // New Zealand
-		PN, // Pitcairn
+		PN, // Pitcairn Islands
 		SG, // Singapore
 		TH, // Thailand
 		JP, // Japan
-		KR, // Republic of Korea
+		KR, // South Korea
 		VN, // Vietnam
 		CN, // China
-		TR, // Turkey
+		TR, // Türkiye
 		IN, // Bharat (India)
 		PK, // Pakistan
 		AF, // Afghanistan
 		LK, // Sri Lanka
-		MM, // Myanmar
+		MM, // Myanmar (Burma)
 		IR, // Iran
 		MA, // Morocco
 		EH, // Western Sahara
@@ -95,11 +95,11 @@
 		CF, // Central African Republic
 		CM, // Cameroon
 		CV, // Cape Verde
-		ST, // Sao Tome and Principe
+		ST, // São Tomé & Príncipe
 		GQ, // Equatorial Guinea
 		GA, // Gabon
-		CG, // Congo
-		CD, // Democratic Republic of the Congo
+		CG, // Congo - Brazzaville
+		CD, // Congo - Kinshasa
 		AO, // Angola
 		GW, // Guinea-Bissau
 		SC, // Seychelles
@@ -116,13 +116,13 @@
 		ZM, // Zambia
 		MG, // Madagascar
 		YT, // Mayotte
-		RE, // Reunion
+		RE, // Réunion
 		ZW, // Zimbabwe
 		NA, // Namibia
 		MW, // Malawi
 		LS, // Lesotho
 		BW, // Botswana
-		SZ, // Swaziland
+		SZ, // Eswatini
 		KM, // Comoros
 		SH, // St. Helena
 		ER, // Eritrea
@@ -148,13 +148,13 @@
 		AD, // Andorra
 		MC, // Monaco
 		SM, // San Marino
-		VA, // Vatican City State
+		VA, // Vatican City
 		UA, // Ukraine
 		HR, // Croatia
 		SI, // Slovenia
-		BA, // Bosnia and Herzegovina
-		MK, // Macedonia
-		CZ, // Czech Republic
+		BA, // Bosnia & Herzegovina
+		MK, // North Macedonia
+		CZ, // Czechia
 		SK, // Slovakia
 		LI, // Liechtenstein
 		FK, // Falkland Islands
@@ -165,7 +165,7 @@
 		NI, // Nicaragua
 		CR, // Costa Rica
 		PA, // Panama
-		PM, // St. Pierre and Miquelon
+		PM, // St. Pierre & Miquelon
 		HT, // Haiti
 		GP, // Guadeloupe
 		BO, // Bolivia
@@ -176,9 +176,9 @@
 		MQ, // Martinique
 		SR, // Suriname
 		UY, // Uruguay
-		TL, // East Timor
+		TL, // Timor-Leste
 		NF, // Norfolk Island
-		BN, // Brunei Darussalam
+		BN, // Brunei
 		NR, // Nauru
 		PG, // Papua New Guinea
 		TO, // Tonga
@@ -186,7 +186,7 @@
 		VU, // Vanuatu
 		FJ, // Fiji
 		PW, // Palau
-		WF, // Wallis and Futuna Islands
+		WF, // Wallis & Futuna
 		NU, // Niue
 		WS, // Samoa
 		KI, // Kiribati
@@ -196,17 +196,17 @@
 		TK, // Tokelau
 		FM, // Micronesia
 		MH, // Marshall Islands
-		KP, // Democratic People's Republic of Korea
-		HK, // Hong Kong
-		MO, // Macao
+		KP, // North Korea
+		HK, // Hong Kong SAR China
+		MO, // Macao SAR China
 		KH, // Cambodia
-		LA, // Lao People's Democratic Republic
+		LA, // Laos
 		BD, // Bangladesh
 		TW, // Taiwan
 		MV, // Maldives
 		LB, // Lebanon
 		JO, // Jordan
-		SY, // Syrian Arab Republic
+		SY, // Syria
 		IQ, // Iraq
 		KW, // Kuwait
 		SA, // Saudi Arabia
@@ -227,14 +227,14 @@
 		UZ, // Uzbekistan
 		RS, // Serbia
 		ME, // Montenegro
-		CI, // Cote d'Ivoire
+		CI, // Côte d’Ivoire
 		SS, // South Sudan
-		PS, // Palestine
-		AX, // Aland Islands
-		BL, // Saint Barthelemy
-		MF, // Saint Martin
-		BQ, // Bonaire, Sint Eustatius and Saba
-		CW, // Curacao
+		PS, // Palestinian Territories
+		AX, // Åland Islands
+		BL, // St. Barthélemy
+		MF, // St. Martin
+		BQ, // Caribbean Netherlands
+		CW, // Curaçao
 		SX // Sint Maarten
 	}
 }
