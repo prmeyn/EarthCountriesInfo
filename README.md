@@ -101,6 +101,6 @@ Visit our GitHub repository for the latest updates, documentation, and community
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE.
+This project is licensed under the MIT License.
 
 Happy coding! 🌎🚀📚

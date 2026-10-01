@@ -1,6 +1,6 @@
 # Third-party notices
 
-`EarthCountriesInfo` is distributed under the GNU General Public License v3 (see `LICENSE`).
+`EarthCountriesInfo` is distributed under the MIT License (see `LICENSE`).
 It incorporates third-party data as set out below.
 
 ---

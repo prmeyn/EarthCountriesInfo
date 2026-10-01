@@ -11,7 +11,7 @@
     <Authors>prmeyn</Authors>
     <Description>Information about the countries of planet Earth: country names in many languages, international dialling codes, and valid phone number lengths with display formats.</Description>
     <PackageTags>countries;country;iso3166;localization;i18n;phone;dialling-code</PackageTags>
-    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageProjectUrl>https://github.com/prmeyn/EarthCountriesInfo</PackageProjectUrl>
     <RepositoryUrl>https://github.com/prmeyn/EarthCountriesInfo</RepositoryUrl>
@@ -19,7 +19,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HumanLanguages" Version="11.0.0" />
+    <PackageReference Include="HumanLanguages" Version="11.0.1" />
 
 	<None Include="../LICENSE" Pack="true" PackagePath="\" />
 	<None Include="../README.md" Pack="true" PackagePath="\" />
